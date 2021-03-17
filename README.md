@@ -1,4 +1,5 @@
 # Variable_DC_Power_Supply
+Simulate on PROTEUS
 0V-30V Variable DC Power Supply with maximum Load current of 1.5A
 In this project we use 36V transformer that converts 230VRMS to 36V AC.
 Then this 36V AC becomes the input of Full Wave Bridge Rectifier that converts the 36V AC into the Pulsating DC 36V.
